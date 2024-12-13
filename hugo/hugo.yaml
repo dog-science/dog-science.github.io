@@ -1,0 +1,4 @@
+baseURL: https://dog-science.github.io/
+languageCode: en-us
+title: Dog Science Blog on AI/ML
+theme: ["PaperMod"]
